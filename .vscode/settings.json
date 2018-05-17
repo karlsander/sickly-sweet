@@ -26,6 +26,9 @@
     "explorer.decorations.colors": false,
     "editor.renderIndentGuides": false,
     "editor.overviewRulerBorder": false,
-    "editor.hideCursorInOverviewRuler": true
+    "editor.hideCursorInOverviewRuler": true,
+    "vscode_custom_css.imports": [
+      "file:///Users/kall/.vscode/extensions/karlsander.sickly-sweet/hide.css"
+    ],
   }
 }
