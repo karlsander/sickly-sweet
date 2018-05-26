@@ -16,6 +16,11 @@
                 "label": "macOS Smyck",
                 "uiTheme": "vs",
                 "path": "./themes/macOS Smyck-color-theme.json"
+            },
+            {
+                "label": "macOS Soft Era",
+                "uiTheme": "vs",
+                "path": "./themes/macOS Soft Era-color-theme.json"
             }
         ],
 		"iconThemes": [
