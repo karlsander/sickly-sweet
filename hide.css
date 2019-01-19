@@ -2,6 +2,11 @@
   display: none !important;
 }
 
+.title.active {
+  display: none !important;
+}
+
+
 canvas.decorationsOverviewRuler {
   display: none !important;
 }
