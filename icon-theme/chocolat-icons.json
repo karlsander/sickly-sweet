@@ -1,12 +1,12 @@
 {
-	"iconDefinitions": {
-		"_file": {
-			"iconPath": "./GenericDocumentIcon.icns.png"
-		},
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "./GenericDocumentIcon.icns.png"
+    },
     "_forder": {
       "iconPath": "./GenericFolderIcon.icns.png"
     },
-    "_openForder": {
+    "_openFolder": {
       "iconPath": "./OpenFolderIcon.icns.png"
     },
     "_libraryForder": {
@@ -28,6 +28,8 @@
     "_io": { "iconPath": "./docio.icns.png" },
     "_java": { "iconPath": "./docjava.icns.png" },
     "_javascript": { "iconPath": "./docjavascript.icns.png" },
+    "_typescript": { "iconPath": "./docjavascript.icns.png" },
+    "_jsx": { "iconPath": "./docxml.icns.png" },
     "_json": { "iconPath": "./docjson.icns.png" },
     "_latex": { "iconPath": "./doclatex.icns.png" },
     "_lisp": { "iconPath": "./doclisp.icns.png" },
@@ -46,10 +48,10 @@
     "_h": { "iconPath": "./h.icns.png" },
     "_m": { "iconPath": "./m.icns.png" },
     "_mm": { "iconPath": "./mm.icns.png" }
-	},
-	"folderExpanded": "_openForder",
-	"folder": "_forder",
-	"file": "_file",
+  },
+  "folderExpanded": "_openFolder",
+  "folder": "_forder",
+  "file": "_file",
   "folderNames": {
     "node_modules": "_libraryForder",
     "vendor": "_libraryForder"
@@ -68,6 +70,10 @@
     "java": "_java",
     "php": "_php",
     "js": "_javascript",
+    "mjs": "_javascript",
+    "ts": "_typescript",
+    "tsx": "_jsx",
+    "jsx": "_jsx",
     "es6": "_javascript",
     "coffee": "_coffeescript",
     "css": "_css",

@@ -1,0 +1,14 @@
+.scroll-decoration {
+  box-shadow: none !important;
+}
+
+.monaco-workbench,
+.monaco-workbench > .sidebar .panel-header,
+body,
+html {
+  background: transparent !important;
+}
+
+.monaco-workbench > .sidebar {
+  background: #ffffff99 !important;
+}
