@@ -17,3 +17,7 @@
   margin-top: 1px !important;
   transform: scaleX(0.97);
 }
+
+.scroll-decoration {
+  box-shadow: none !important;
+}
