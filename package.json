@@ -17,14 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "macOS Smyck",
+        "label": "Sickly Sweet: Smyck",
         "uiTheme": "vs-dark",
-        "path": "./themes/macOS Smyck-color-theme.json"
-      },
-      {
-        "label": "macOS Soft Era",
-        "uiTheme": "vs",
-        "path": "./themes/macOS Soft Era-color-theme.json"
+        "path": "./themes/sickly-sweet_smyck.json"
       }
     ],
     "iconThemes": [
