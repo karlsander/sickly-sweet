@@ -42,3 +42,13 @@ canvas.decorationsOverviewRuler {
 .monaco-editor .suggest-widget {
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2) !important;
 }
+/*
+.activitybar,
+.activitybar .content {
+  width: 100px !important;
+}
+
+.monaco-split-view2 > .splwidit-view-container > * {
+  min-width: 100px !important;
+}
+*/

@@ -18,7 +18,7 @@
     "_cpp": { "iconPath": "./cpp.icns.png" },
     "_closure": { "iconPath": "./docclosure.icns.png" },
     "_coffeescript": { "iconPath": "./doccoffeescript.icns.png" },
-    "_css": { "iconPath": "./docss.icns.png" },
+    "_css": { "iconPath": "./doccss.icns.png" },
     "_erlang": { "iconPath": "./docerlang.icns.png" },
     "_fortran": { "iconPath": "./docfortran.icns.png" },
     "_grammar": { "iconPath": "./docgrammar.icns.png" },
@@ -51,7 +51,7 @@
   },
   "folderExpanded": "_openFolder",
   "folder": "_forder",
-  "file": "_file",
+  "file": "_plaintext",
   "folderNames": {
     "node_modules": "_libraryForder",
     "vendor": "_libraryForder"
@@ -101,6 +101,9 @@
     "haml": "_haml",
     "h": "_h",
     "m": "_m",
-    "mm": "_mm"
+    "mm": "_mm",
+    "png": "_file",
+    "jpg": "_file",
+    "svg": "_xml"
   }
 }
